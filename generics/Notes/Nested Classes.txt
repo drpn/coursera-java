@@ -1,0 +1,26 @@
+useful reads:
+
+https://docs.oracle.com/javase/tutorial/java/javaOO/nested.html
+
+
+class OuterClass {
+    ...
+    class NestedClass {
+        ...
+    }
+}
+OR:
+
+class OuterClass {
+    ...
+    class InnerClass {
+        ...
+    }
+    static class StaticNestedClass {
+        ...
+    }
+}
+
+Non-static nested classes (inner classes) have access to other members of the enclosing class, even if they are declared private. 
+Static nested classes do not have access to other members of the enclosing class. 
+

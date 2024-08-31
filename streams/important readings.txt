@@ -1,0 +1,11 @@
+Processing Data with Java SE 8 Streams, Part 1
+https://www.oracle.com/technical-resources/articles/java/ma14-java-se-8-streams.html
+
+Processing Data with Java SE 8 Streams, Part 2
+https://www.oracle.com/technical-resources/articles/java/architect-streams-pt2.html
+
+A Guide to Java Streams in Java 8: In Depth Tutorial With Examples
+http://stackify.com/streams-guide-java-8/
+
+Java 8 Parallel Streams Example
+https://examples.javacodegeeks.com/core-java/java-8-parallel-streams-example/

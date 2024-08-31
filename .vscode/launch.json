@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AbstractClasses",
+            "request": "launch",
+            "mainClass": "course3.examples.AbstractClasses",
+            "projectName": "coursera-java_5d9f08be"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AbstractClasses$Main",
+            "request": "launch",
+            "mainClass": "course3.examples.AbstractClasses$Main",
+            "projectName": "coursera-java_5d9f08be"
+        },
+        {
+            "type": "java",
+            "name": "HasARelationshipExample",
+            "request": "launch",
+            "mainClass": "course3.examples.HasARelationshipExample",
+            "projectName": "coursera-java_5d9f08be"
+        },
+        {
+            "type": "java",
+            "name": "Interfaces",
+            "request": "launch",
+            "mainClass": "course3.examples.Interfaces",
+            "projectName": "coursera-java_5d9f08be"
+        },
+        {
+            "type": "java",
+            "name": "Polymorphism",
+            "request": "launch",
+            "mainClass": "course3.examples.Polymorphism",
+            "projectName": "coursera-java_5d9f08be"
+        },
+        {
+            "type": "java",
+            "name": "GenericsEliminatesDownCasting",
+            "request": "launch",
+            "mainClass": "generics.GenericsEliminatesDownCasting",
+            "projectName": "coursera-java_5d9f08be"
+        },
+        {
+            "type": "java",
+            "name": "Init",
+            "request": "launch",
+            "mainClass": "generics.Init",
+            "projectName": "coursera-java_5d9f08be"
+        }
+    ]
+}

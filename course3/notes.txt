@@ -1,0 +1,8 @@
+inheritance 
+    - parent-child relationship between classes
+    - child class inherits all the non-private members of the parent class
+    
+
+Inheritance within the class hierarchy is primarily used for code reuse.
+
+Interfaces are used for achieving polymorphism across different parts of the class hierarchy.
